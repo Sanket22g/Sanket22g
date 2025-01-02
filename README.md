@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 💬 Ask me about **Data Science an ML**
+- 💬 Ask me about **Data Science and ML**
 
 - 📫 How to reach me **sanketghadge122@gmail.com**
 
