@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Ghadge</h1>
+<h1 align="center">Hi 👋, I'm Sanket </h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket22g&label=Profile%20views&color=0e75b6&style=flat" alt="sanket22g" /> </p>
