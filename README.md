@@ -46,7 +46,7 @@
 
 #### 🤖 Generative & Agentic AI
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="LangChain" width="40" height="40" title="LangChain"/></a>&nbsp;
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://seeklogo.com/free-vector-logos/langchain-icon" alt="LangChain" width="40" height="40" title="LangChain"/></a>&nbsp;
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="30"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white" height="30"/>
